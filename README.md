@@ -3,5 +3,5 @@
 </div>
 
 <h1 align="center">
-  Hi there 🌷, This is Kanika 💕
+  Hi 🌷, This is Kanika 
 </h1>
