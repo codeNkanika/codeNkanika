@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="_(43).jpeg" width="100%" />
+  <img src="_(1).gif" width="100%" />
 </div>
 
 <h1 align="center">
