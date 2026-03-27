@@ -19,7 +19,7 @@
    - 🎀 Loves cute + aesthetic designs  
    - 🌷 Building fun projects  
 
-    <br clear="left"/>
+  <br clear="left"/>
 
   </div>
 </div>
