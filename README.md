@@ -14,10 +14,10 @@
   <img src="kirby1.png" width="220" align="left" style="margin-right: 30px;" />
 
   ### 🌷 About Me
-  - 🌸 Student & Developer  
-  - 💻 Learning Web Development  
-  - 🎀 Loves cute + aesthetic designs  
-  - 🌷 Building fun projects  
+   - 🌸 Student & Developer  
+   - 💻 Learning Web Development  
+   - 🎀 Loves cute + aesthetic designs  
+   - 🌷 Building fun projects  
 
     <br clear="left"/>
 
