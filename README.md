@@ -8,18 +8,12 @@
 
 <br>
 
-<table>
-  <tr>
-    <td>
-      <img src="kirby1.png" width="200"/>
-    </td>
-    <td>
-      <ul>
-        <li>🌸 Student & Developer</li>
-        <li>💻 Learning Web Development</li>
-        <li>🎀 Loves cute + aesthetic designs</li>
-        <li>🌷 Building fun projects</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<img src="kirby.png" width="220" align="left" style="margin-right: 20px;" />
+
+### 🌷 About Me
+- 🌸 Student & Developer  
+- 💻 Learning Web Development  
+- 🎀 Loves cute + aesthetic designs  
+- 🌷 Building fun projects  
+
+<br clear="left"/>
