@@ -8,7 +8,7 @@
 
 <br>
 
-<img src="kirby.png" width="220" align="left" style="margin-right: 20px;" />
+<img src="kirby1.png" width="220" align="left" style="margin-right: 20px;" />
 
 ### 🌷 About Me
 - 🌸 Student & Developer  
