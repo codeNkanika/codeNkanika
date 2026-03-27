@@ -8,12 +8,18 @@
 
 <br>
 
-<img src="kirby1.png" width="220" align="left" style="margin-right: 20px;" />
+<div align="center">
+  <div style="display: inline-block; text-align: left;">
 
-### 🌷 About Me
-- 🌸 Student & Developer  
-- 💻 Learning Web Development  
-- 🎀 Loves cute + aesthetic designs  
-- 🌷 Building fun projects  
+    <img src="kirby1.png" width="220" align="left" style="margin-right: 30px;" />
 
-<br clear="left"/>
+    ### 🌷 About Me
+    - 🌸 Student & Developer  
+    - 💻 Learning Web Development  
+    - 🎀 Loves cute + aesthetic designs  
+    - 🌷 Building fun projects  
+
+    <br clear="left"/>
+
+  </div>
+</div>
