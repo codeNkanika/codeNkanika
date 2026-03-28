@@ -1,4 +1,4 @@
-<div align="center">
+<img width="344" height="304" alt="kirby2" src="https://github.com/user-attachments/assets/e6e07e60-d918-4725-9498-6997c7c5c4b7" /><div align="center">
   <img src="flowers.gif" width="100%" />
 </div>
 
@@ -32,3 +32,11 @@
 - 💌 [Email Me](mailto:codeNkanika@gmail.com)
 
 ---
+
+<img src="kirby2.png" width="220" align="right" style="margin-left: 20px;" />
+
+### 🌱 Currently Learning
+- Data Pipelines  
+- SQL Optimization  
+
+<br clear="right"/>
