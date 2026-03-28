@@ -34,10 +34,14 @@
 
 <br><br>
 
-<img src="kirby2.png" width="220" align="right" style="margin-left: 20px; margin-top: 10px;" />
+<img src="kirby2.png" width="180" align="right" style="margin-left: 10px; margin-top: 10px;" />
+
+<div>
 
 ### 🌱 Currently Learning
 - Data Pipelines  
 - SQL Optimization  
+
+</div>
 
 <br clear="right"/>
