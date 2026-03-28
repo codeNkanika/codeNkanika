@@ -31,16 +31,16 @@
 - 💌 [Email Me](mailto:codeNkanika@gmail.com)
 ---
 
----
-
 <br><br>
 
-<img src="kirby2.png" width="150" align="right"/>
+<img src="kirby2.png" width="180" align="right" style="margin-left: 10px; margin-top: 10px;" />
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<div>
 
 ### 🌱 Currently Learning
 - Data Pipelines  
 - SQL Optimization  
+
+</div>
 
 <br clear="right"/>
