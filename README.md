@@ -29,24 +29,20 @@
 
 ### 🌷 Let's Connect
 - 💌 [Email Me](mailto:codeNkanika@gmail.com)
-
 ---
 
 <br><br>
 
-<table>
-<tr>
-<td>
+<div style="display: flex; align-items: center; justify-content: space-between;">
+
+<div>
 
 ### 🌱 Currently Learning
 - Data Pipelines  
 - SQL Optimization  
 
-</td>
+</div>
 
-<td align="right">
-<img src="kirby2.png" width="160"/>
-</td>
-</tr>
-</table>
-<br clear="right"/>
+<img src="kirby2.png" width="160" style="margin-left: 10px;" />
+
+</div>
