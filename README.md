@@ -38,8 +38,8 @@
 <div>
 
 ### 🌱 Currently Learning
-- Data Pipelines  
-- SQL Optimization  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Data Pipelines  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- SQL Optimization  
 
 </div>
 
