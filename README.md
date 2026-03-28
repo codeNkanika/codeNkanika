@@ -12,7 +12,7 @@
 
 ### 🌷 About Me
 - 🌸 Student & Developer  
-- 💻 Learning Web Development  
+- 📊 Exploring Data & Pipelines  
 - 🎀 Loves cute + aesthetic designs  
 - 🌷 Building fun projects  
 
