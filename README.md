@@ -32,7 +32,9 @@
 
 ---
 
-<img src="kirby2.png" width="220" align="right" style="margin-left: 20px;" />
+<br><br>
+
+<img src="kirby2.png" width="220" align="right" style="margin-left: 20px; margin-top: 10px;" />
 
 ### 🌱 Currently Learning
 - Data Pipelines  
