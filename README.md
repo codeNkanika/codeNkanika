@@ -18,6 +18,13 @@
 
 <br clear="left"/>
 
+---
+
+<div align="center">
+
+![Workflow](https://img.shields.io/badge/Workflow-Collect→Clean→Store→Analyze-ffb6c1?style=for-the-badge)
+
+</div>
 
 ---
 
