@@ -6,10 +6,6 @@
   Hi 🌷, This is Kanika
 </h1>
 
-<h3 align="center">
-  Aspiring Data Engineer 📊
-</h3>
-
 <br>
 
 <img src="kirby1.png" width="220" align="left" style="margin-right: 20px;" />
