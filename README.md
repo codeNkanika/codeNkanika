@@ -1,4 +1,4 @@
- <img src="flowers.gif" width="100%" />
+<img src="flowers.gif" width="100%" />
 </div>
 
 <h1 align="center">
