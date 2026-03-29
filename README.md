@@ -50,7 +50,7 @@
 
 ---
 
-### 🌷 Tech Stack
+### 🌷 My Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-f8c8dc?style=for-the-badge&logo=python&logoColor=black"/>
