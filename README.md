@@ -49,3 +49,6 @@
 <br clear="right"/>
 
 ---
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,html,js,mysql" />
+</p>
