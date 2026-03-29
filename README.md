@@ -29,8 +29,9 @@
 
 ### 🌷 Let's Connect
 - 💌 [Email Me](mailto:codeNkanika@gmail.com)
----
+- 📝 [Medium Profile](https://medium.com/@codenkanika)
 
+---
 <br><br>
 
 <img src="kirby2.png" width="180" align="right" style="margin-left: 10px; margin-top: 10px;" />
