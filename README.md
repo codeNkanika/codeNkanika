@@ -49,8 +49,11 @@
 <br clear="right"/>
 
 ---
+
+### 🌷 Tech Stack
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-f8c8dc?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-f8c8dc?style=for-the-badge&logo=python&logoColor=black"/>
   <img src="https://img.shields.io/badge/SQL-f8c8dc?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-f8c8dc?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-f8c8dc?style=for-the-badge&logo=javascript&logoColor=white"/>
