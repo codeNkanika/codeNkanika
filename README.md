@@ -4,11 +4,9 @@
 <h1 align="center">
   Hi 🌷, This is Kanika
 </h1>
-<h3 align="center">
-  <span style="color:#ff69b4;">
-    Analytics Engineer in the Making | Turning Data into Insights
-  </span>
-</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Analytics%20Engineer%20in%20the%20Making-Turning%20Data%20into%20Insights-ff69b4?style=for-the-badge"/>
+</p>
 
 <br>
 
