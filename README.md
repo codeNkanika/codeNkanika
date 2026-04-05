@@ -58,10 +58,10 @@
 ### 🌷 My Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-f8c8dc?style=for-the-badge&logo=python&logoColor=black"/>
-  <img src="https://img.shields.io/badge/SQL-f8c8dc?style=for-the-badge&logo=mysql&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-f8c8dc?style=for-the-badge&logo=html5&logoColor=black"/>
-  <img src="https://img.shields.io/badge/JavaScript-f8c8dc?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-ffb6c1?style=for-the-badge&logo=python&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SQL-ffb6c1?style=for-the-badge&logo=mysql&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-ffb6c1?style=for-the-badge&logo=html5&logoColor=black"/>
+  <img src="https://img.shields.io/badge/JavaScript-ffb6c1?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
 
