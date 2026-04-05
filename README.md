@@ -4,9 +4,11 @@
 <h1 align="center">
   Hi 🌷, This is Kanika
 </h1>
-<p align="center">
-  <img src="https://img.shields.io/badge/Analytics%20Engineer%20in%20the%20Making-Turning%20Data%20into%20Insights-ff69b4?style=for-the-badge"/>
-</p>
+<div align="center">
+
+![Title](https://img.shields.io/badge/Analytics%20Engineer%20in%20the%20Making-Turning%20Data%20into%20Insights-f8c8dc?style=for-the-badge)
+
+</div>
 
 <br>
 
