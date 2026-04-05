@@ -4,7 +4,7 @@
 <h1 align="center">
   Hi 🌷, This is Kanika
 </h1>
-<h2 align="center">Analytics Engineer in the Making | Turning Data into Insights</h2>
+<h3 align="center">Analytics Engineer in the Making | Turning Data into Insights</h3>
 
 <br>
 
