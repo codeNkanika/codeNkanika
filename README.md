@@ -6,7 +6,7 @@
 </h1>
 <div align="center">
 
-![Title](https://img.shields.io/badge/Analytics%20Engineer%20in%20the%20Making-Turning%20Data%20into%20Insights-f8c8dc?style=for-the-badge)
+![Title](https://img.shields.io/badge/Analytics%20Engineer%20in%20the%20Making-Turning%20Data%20into%20Insights-ffb6c1?style=for-the-badge)
 
 </div>
 
