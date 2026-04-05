@@ -4,7 +4,11 @@
 <h1 align="center">
   Hi 🌷, This is Kanika
 </h1>
-<h3 align="center">Analytics Engineer in the Making | Turning Data into Insights</h3>
+<h3 align="center">
+  <span style="color:#ff69b4;">
+    Analytics Engineer in the Making | Turning Data into Insights
+  </span>
+</h3>
 
 <br>
 
