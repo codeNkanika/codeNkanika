@@ -7,8 +7,6 @@
 
 </div>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" width="100%" />
-
 ---
 
 
