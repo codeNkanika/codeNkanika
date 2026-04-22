@@ -17,7 +17,7 @@
 ### 🌷 About Me
 - 🌸 Student & Developer  
 - 📊 Exploring Data & Pipelines  
-- 📊 Interested in working with data  
+- 📊 Data, work and workflow
 - 🌷 Building fun projects  
 
 <br clear="left"/>
