@@ -1,11 +1,4 @@
 
-<div align="center">
-
-<a href="https://celebrated-douhua-89602f.netlify.app" target="_blank">
-  <img src="https://img.shields.io/badge/✨ Visit My Website ✨-ffb6c1?style=for-the-badge&logo=google-chrome&logoColor=black" />
-</a>
-
-</div>
 
 ---
 
@@ -78,3 +71,13 @@
 </p>
 
 ---
+
+<br>
+
+<img src="kirby1.png" width="220" align="left" style="margin-right: 20px;" />
+
+<a href="https://celebrated-douhua-89602f.netlify.app" target="_blank">
+  <img src="https://img.shields.io/badge/✨ Visit My Website ✨-ffb6c1?style=for-the-badge&logo=google-chrome&logoColor=black" />
+</a>
+
+<br clear="left"/>
