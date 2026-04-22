@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=ffb6c1&size=22&center=true&vCenter=true&width=500&lines=Future+Data+Analyst+🌷;Building+Cute+Projects+✨;Turning+Data+into+Stories+📊" />
+</p>
 <div align="center">
 
 <a href="https://celebrated-douhua-89602f.netlify.app" target="_blank">
