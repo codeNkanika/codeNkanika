@@ -46,7 +46,8 @@
 ### 🌱 Currently Learning
 - Data Pipelines  
 - SQL Optimization  
-- Data Structures & Algorithms (Python)
+- Data Structures & Algorithms
+- HTML,CSS,JScript
 - Numpy and Pandas 
 
 </div>
