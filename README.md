@@ -67,8 +67,6 @@
 
 ---
 
-## 🌐 Live Website  
-
 <div align="center">
 
 <a href="https://celebrated-douhua-89602f.netlify.app" target="_blank">
