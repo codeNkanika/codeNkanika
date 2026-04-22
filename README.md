@@ -86,4 +86,3 @@
 
 <br clear="left"/>
 
-margin-top: 40px;
