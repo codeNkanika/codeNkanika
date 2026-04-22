@@ -67,14 +67,12 @@
 
 ---
 
-# 📸 Photobooth App
+## 🌐 Live Website  
 
-Welcome to my Photobooth web application! 🎉  
-You can click photos, customize them, and have fun with different decorations.
+<div align="center">
 
----
+<a href="https://celebrated-douhua-89602f.netlify.app" target="_blank">
+  <img src="https://img.shields.io/badge/✨ Visit My Website ✨-ffb6c1?style=for-the-badge&logo=google-chrome&logoColor=black" />
+</a>
 
-## 🌐 Live Website
-👉 https://celebrated-douhua-89602f.netlify.app
-
-
+</div>
