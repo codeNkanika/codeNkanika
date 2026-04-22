@@ -8,7 +8,6 @@
 </div>
 
 ---
----
 
 
 <img src="flowers.gif" width="100%" />
