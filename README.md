@@ -73,7 +73,7 @@
 
 <br>
 
-<img src="kirby5.png" width="180" align="left" style="margin-right: 20px;" />
+<img src="kirby3.png" width="180" align="left" style="margin-right: 20px;" />
 
 <div style="margin-top: 40px;">
 
