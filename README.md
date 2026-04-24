@@ -52,7 +52,6 @@
 - Data Pipelines  
 - SQL Optimization  
 - Data Structures & Algorithms
-- HTML,CSS,JScript
 - Numpy and Pandas 
 
 </div>
