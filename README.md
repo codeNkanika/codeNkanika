@@ -53,7 +53,7 @@
 - SQL Optimization  
 - Data Structures & Algorithms
 - Numpy and Pandas
-- Cloud 
+
 
 </div>
 
