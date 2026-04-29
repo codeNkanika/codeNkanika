@@ -49,7 +49,7 @@
 <div>
 
 ### 🌱 Currently Learning
-- Data Pipeline  
+- Data Pipelines  
 - SQL Optimization  
 - Data Structures & Algorithms
 - Numpy and Pandas 
