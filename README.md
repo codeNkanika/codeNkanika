@@ -7,7 +7,7 @@
 </div>
 
 <h1 align="center">
-  Hi 🌷, This is Kanika , hru?
+  Hi 🌷, This is Kanika 
 </h1>
 <div align="center">
 
