@@ -23,7 +23,8 @@
 - 🌸 Student & Developer  
 - 📊 Exploring Data & Pipelines  
 - 📊 Data, work and workflow
-- 🌷 Building fun projects  
+- 🌷 Building fun projects
+- 🫧 Loves clean vibes   
 
 <br clear="left"/>
 
