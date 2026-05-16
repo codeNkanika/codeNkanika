@@ -14,10 +14,10 @@
 ![Title](https://img.shields.io/badge/Analytics%20Engineer%20in%20the%20Making-Turning%20Data%20into%20Insights-ffb6c1?style=for-the-badge)
 
 </div>
-
+<div>
 <br>
-
-<img src="kirby1.png" width="220" align="left" style="margin-right: 20px;" />
+</div>
+<img src="m.png" width="180" align="left" style="margin-right: 20px;" />
 
 ### 🌷 About Me
 - 🌸 Student & Developer   
@@ -44,7 +44,7 @@
 ---
 <br><br>
 
-<img src="kirby2.png" width="180" align="right" style="margin-left: 10px; margin-top: 10px;" />
+<img src="" width="180" align="right" style="margin-left: 10px; margin-top: 10px;" />
 
 <div>
 
@@ -74,7 +74,7 @@
 
 <br>
 
-<img src="kirby6.png" width="360" align="left" style="margin-right: 20px;" />
+<img src="" width="360" align="left" style="margin-right: 20px;" />
 
 <div style="margin-top: 40px;">
 
