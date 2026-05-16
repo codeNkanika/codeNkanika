@@ -20,11 +20,10 @@
 <img src="kirby1.png" width="220" align="left" style="margin-right: 20px;" />
 
 ### 🌷 About Me
-- 🌸 Student & Developer  
-- 📊 Exploring Data & Pipelines  
+- 🌸 Student & Developer   
 - 📊 Data, work and workflow
 - 🌷 Building fun projects
-- 🫧 Loves clean vibes   
+ 
 
 <br clear="left"/>
 
